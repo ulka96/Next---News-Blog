@@ -1,0 +1,28 @@
+{  
+  "news": [ {
+      "id": 1,
+      "title": "The Great Adventure",
+      "description": "A thrilling journey across uncharted lands.",
+      "cover_image": "https://example.com/images/great_adventure.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Mystery of the Old Castle",
+      "description": "A suspenseful tale of secrets hidden in the walls of an ancient castle.",
+      "cover_image": "https://example.com/images/old_castle.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Space Odyssey",
+      "description": "An epic saga set in the distant future as mankind explores the cosmos.",
+      "cover_image": "https://example.com/images/space_odyssey.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Secret Garden",
+      "description": "A magical story about discovering a hidden world within a garden.",
+      "cover_image": "https://example.com/images/secret_garden.jpg"
+    }
+  ]
+}
+  
