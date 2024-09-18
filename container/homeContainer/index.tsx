@@ -1,10 +1,15 @@
-import LatestNews from '@/components/latestNews'
+import LatestNews from '@/components/home/latestNews'
+import { ILatestNews } from '@/types/type'
 import React from 'react'
 
-const HomeContainer = () => {
+interface IProps {
+  latestNews: ILatestNews []
+}
+
+const HomeContainer = ({latestNews}: IProps) => {
   return (
     <main>
-      <LatestNews/>
+      <LatestNews latestNews={latestNews}/>
     </main>
   )
 }

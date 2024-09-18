@@ -23,6 +23,33 @@
       "description": "A magical story about discovering a hidden world within a garden.",
       "cover_image": "https://example.com/images/secret_garden.jpg"
     }
+  ],
+  "latestNews": [
+    {
+      "id": "1",
+      "title": "Sports Update",
+      "description": "Latest in sports from around the world.",
+      "coverImage": "https://picsum.photos/200/300"
+    },
+    {
+      "id": "2",
+      "title": "Tech Innovations",
+      "description": "New technologies emerging in 2024.",
+      "coverImage": "https://picsum.photos/200/300"
+    },
+    {
+      "id": "3",
+      "title": "Health Breakthroughs",
+      "description": "Advancements in medicine and health.",
+      "coverImage": "https://picsum.photos/200/300"
+    },
+    {
+      "id": "4",
+      "title": "Global Economy",
+      "description": "Current trends in global markets.",
+      "coverImage": "https://picsum.photos/200/300"
+    }
   ]
+
 }
   
