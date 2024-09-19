@@ -1,15 +1,15 @@
-import About from "@/components/commonPageComponents/about";
+import TermsAndConditions from "@/components/commonPageComponents/terms-conditions";
 import { ICommonPage } from "@/types/type";
 import React from "react";
 
 interface IProps {
-  aboutInfo: ICommonPage;
+  termsInfo: ICommonPage;
 }
 
-const TermsAndConditionsContainer = ({ aboutInfo }: IProps) => {
+const TermsAndConditionsContainer = ({ termsInfo }: IProps) => {
   return (
     <main>
-      <About aboutInfo={aboutInfo} />
+      <TermsAndConditions termsInfo= {termsInfo}/>
     </main>
   );
 };

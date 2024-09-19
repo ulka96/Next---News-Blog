@@ -3,17 +3,13 @@ import AboutContainer from '@/container/CommonPageContainer/aboutContainer'
 import React from 'react'
 
 
-interface IParams {
-  params: {id: string}
-}
-
-
 const AboutPage = async() => {
 
 
   const aboutPromise = await getCommonPage("1")
 
   const [aboutInfo] = await Promise.all([aboutPromise])
+
 
   return (
     

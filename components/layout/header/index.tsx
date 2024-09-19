@@ -22,7 +22,9 @@ const Header = () => {
     <section className='flex flex-row pt-10  justify-between '>
 
       <div className='flex flex-row items-center'>
-      <h1 className='text-[20px] text-red-500 font-bold '>Brief</h1>
+      <Link href={"/"}> 
+      <h1 className='text-[20px] text-red-500 font-bold hover:text-black'>Brief</h1>
+      </Link>
       <div className='border border-black h-4 mx-8'></div>
       <ul className='flex flex-row gap-8 font-bold '>
         {

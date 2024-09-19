@@ -14,7 +14,7 @@ const Footer = () => {
 
   return (
     <Container>
-        <section className='flex flex-row pt-10 mt-40  justify-between '>
+        <section className='flex flex-row pt-10 mt-40 mb-20 justify-between '>
 
 <div className='flex flex-row items-center'>
 
