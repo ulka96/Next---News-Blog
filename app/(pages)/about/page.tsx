@@ -1,8 +1,23 @@
+import { getCommonPage } from '@/api/service'
+import AboutContainer from '@/container/CommonPageContainer/aboutContainer'
 import React from 'react'
 
-const AboutPage = () => {
+
+interface IParams {
+  params: {id: string}
+}
+
+
+const AboutPage = async() => {
+
+
+  const aboutPromise = await getCommonPage("1")
+
+  const [aboutInfo] = await Promise.all([aboutPromise])
+
   return (
-    <div>AboutPage</div>
+    
+    <AboutContainer aboutInfo={aboutInfo}/>
   )
 }
 

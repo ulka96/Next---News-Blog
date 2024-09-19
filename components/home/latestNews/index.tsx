@@ -9,20 +9,21 @@ interface IProps {
 }
 
 const LatestNews = ({ latestNews }: IProps) => {
+  console.log(latestNews);
+  
   return (
     <Container>
+      <div>
       <h1 className='text-[30px] font-bold my-10'>Latest News</h1>
     <section className='grid grid-cols-4 gap-16'>
        
-        {latestNews.map((news) => (
-          <Link href={`/latestNews/${news.id}`}>
+        {latestNews&&latestNews.map((news) => <SingleNews news={news}/>
 
-            <SingleNews news={news}/>
-
-          </Link>
-        ))}
+  
+        )}
     
     </section>
+    </div>
     </Container>
   );
 };

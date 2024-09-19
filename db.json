@@ -49,7 +49,42 @@
       "description": "Current trends in global markets.",
       "coverImage": "https://picsum.photos/200/300"
     }
-  ]
+  ],
+
+"commonPage": [
+  {
+    "id": "1",
+    "title": "About Us",
+    "description": "Learn more about our mission, values, and what we stand for.",
+    "coverImage": "https://picsum.photos/200/300"
+   
+  },
+  {
+    "id": "2",
+    "title": "Terms & Conditions",
+    "description": "The rules and guidelines for using our services and platform.",
+    "coverImage": "https://picsum.photos/200/300"
+  },
+  {
+    "id": "3",
+    "title": "Privacy Policy",
+    "description": "How we handle, collect, and protect your personal information.",
+    "coverImage": "https://picsum.photos/200/300"
+  },
+  {
+    "id": "4",
+    "title": "Delivery Details",
+    "description": "Information on our shipping processes and delivery options.",
+    "coverImage": "https://picsum.photos/200/300"
+  },
+  {
+    "id": "5",
+    "title": "Customer Support",
+    "description": "Get assistance with your inquiries and customer-related issues.",
+    "coverImage": "https://picsum.photos/200/300"
+  }
+]
+
 
 }
   
