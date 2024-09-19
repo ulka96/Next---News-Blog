@@ -24,16 +24,16 @@ export const getLatestNews = async () => {
   };
   
 
-  export const getCommonPage = async (id:string) => {
+  export const getCommonPage = async (id: string) => {
     const response = await fetch(`http://localhost:3000/commonPage/${id}`, {
       headers: {
-        'Cache-Control': 'no-cache'
-      }
+        'Cache-Control': 'no-cache',
+      },
     });
     const data = await response.json();
-    
-    console.log(data); // This should show the updated data now
+    console.log(data);
     return data;
   };
+  
 
 
