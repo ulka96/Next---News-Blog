@@ -1,14 +1,19 @@
 
-import LatestNewsContainer from '@/container/latestNewsContainer'
+import { getLatestNews } from '@/api/service'
+import AllLatestNewsContainer from '@/container/allLatestNewsContainer'
 
 import React from 'react'
 
 
 
-const LatestNewsPage = () => {  
+const LatestNewsPage = async() => {  
+
+  const latestNewsPromise = await getLatestNews()
+
+  const [latestNews] = await Promise.all([latestNewsPromise])
 
   return (
-   <LatestNewsContainer/>
+   <AllLatestNewsContainer latestNews={latestNews}/>
   )
 }
 

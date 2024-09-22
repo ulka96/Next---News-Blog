@@ -14,7 +14,7 @@ const Header = () => {
     { id: 1, name: 'Stories', link: '/stories' },
     { id: 2, name: 'Creator', link: '/creator' },
     { id: 3, name: 'Community', link: '/community' },
-    { id: 4, name: 'Subscribe', link: '/subscribe' },
+    { id: 4, name: 'Sign Up', link: '/sign-up' },
   ];
 
   return (
@@ -52,7 +52,7 @@ const Header = () => {
        <div className='flex gap-7 items-center'>
       <FaBookmark />
       <FaBell />
-      <CgProfile className='w-10 h-10' />
+      <Link href="/sign-in"><CgProfile className='w-10 h-10' /></Link>
       </div>
 
       </div>

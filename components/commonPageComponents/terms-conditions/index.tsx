@@ -13,7 +13,7 @@ const TermsAndConditions = ({ termsInfo }: IProps) => {
         <div className="w-full h-[500px] absolute">
           <div className="w-full h-[500px] relative">
             <Image
-              src={termsInfo.coverImage}
+              src={termsInfo.cover_image}
               alt="img"
               fill={true}
               className="object-cover object-center absolute !z-0"
@@ -21,10 +21,10 @@ const TermsAndConditions = ({ termsInfo }: IProps) => {
           </div>
         </div>
         <div className="p-10">
-          <h1 className="relative !z-10 text-[30px] font-bold text-white mb-4">
+          <h1 className="relative !z-10 text-[30px] font-bold text-black mb-4">
             {termsInfo.title}
           </h1>
-          <h2 className="relative !z-10 text-[20px]">
+          <h2 className="relative !z-10 text-[20px] font-medium text-gray-700">
             {termsInfo.description}
           </h2>
         </div>

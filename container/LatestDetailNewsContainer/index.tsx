@@ -1,4 +1,4 @@
-import SingleNews from '@/components/home/singleNews'
+import SingleDetailsNews from '@/components/singleDetailsNews';
 import { ILatestNews } from '@/types/type';
 import React from 'react'
 
@@ -9,7 +9,7 @@ interface IProps {
 const LatestDetailNewsContainer = ({news}:IProps) => {
   return (
     <div>
-      <SingleNews news={news}/>
+      <SingleDetailsNews news={news}/>
     </div>
   )
 }

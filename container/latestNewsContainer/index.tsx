@@ -6,7 +6,7 @@ interface IProps {
     latestNews: ILatestNews[];
   }
 
-const LatestNewsContainer = ({news}: IProps) => {
+const LatestNewsContainer = ({latestNews}: IProps) => {
   return (
     <main>
       <LatestNews latestNews={latestNews}/>

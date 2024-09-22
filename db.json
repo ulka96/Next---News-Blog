@@ -3,51 +3,81 @@
       "id": 1,
       "title": "The Great Adventure",
       "description": "A thrilling journey across uncharted lands.",
-      "cover_image": "https://example.com/images/great_adventure.jpg"
+      "cover_image": "https://media.istockphoto.com/id/1397793761/photo/the-great-great-outdoors.jpg?s=2048x2048&w=is&k=20&c=3cI9xq30uiSSrTi6Zap2ZJFb6IshpaNZ_jQdnf4UKL4="
     },
     {
       "id": 2,
       "title": "Mystery of the Old Castle",
       "description": "A suspenseful tale of secrets hidden in the walls of an ancient castle.",
-      "cover_image": "https://example.com/images/old_castle.jpg"
+      "cover_image": "https://media.istockphoto.com/id/1455589142/photo/interior-of-old-ruined-palace-with-columns-and-dome.jpg?s=2048x2048&w=is&k=20&c=fs0vlhzrP9NlOiXQ1PxGma-vJHCG_uJ2_l-_SvaN6Pk="
     },
     {
       "id": 3,
       "title": "Space Odyssey",
       "description": "An epic saga set in the distant future as mankind explores the cosmos.",
-      "cover_image": "https://example.com/images/space_odyssey.jpg"
+      "cover_image": "https://media.istockphoto.com/id/1368368019/photo/astronaut-standing-on-the-moon-looking-towards-a-distant-earth.jpg?s=2048x2048&w=is&k=20&c=LI8CZqFpwoB6AlrxS-skOfpBcX4DksJhI6b-tyCPVxc="
     },
     {
       "id": 4,
       "title": "The Secret Garden",
       "description": "A magical story about discovering a hidden world within a garden.",
-      "cover_image": "https://example.com/images/secret_garden.jpg"
+      "cover_image": "https://media.istockphoto.com/id/1788588742/photo/korean-traditional-building-in-secret-garden-or-huwon-of-changdeokgung-palace-with-ceautiful.jpg?s=2048x2048&w=is&k=20&c=7t2T3wNYjmk0F66GYfZaKpro4Zr_dIAUKHX0g0bLjas="
     }
   ],
   "latestNews": [
     {
       "id": "1",
       "title": "Sports Update",
-      "description": "Latest in sports from around the world.",
-      "coverImage": "https://picsum.photos/200/300"
+      "description": "The Brisbane Lions overcame a 25-point deficit to beat the Geelong Cats and secure a place in the 2024 AFL Grand Final. Key performances from players like Logan Morris and Zac Bailey helped seal the victory, with the team now set to face the Sydney Swans for the title. The Lions' resilience was praised, especially considering their tough road to the final​",
+      "cover_image": "https://media.istockphoto.com/id/2033209287/photo/couple-playing-tennis-on-the-court.jpg?s=2048x2048&w=is&k=20&c=gF-QjwaAxLtjPcx7ILM6K1MvHeMw65e7EPUd4hYRTDs="
     },
     {
       "id": "2",
       "title": "Tech Innovations",
-      "description": "New technologies emerging in 2024.",
-      "coverImage": "https://picsum.photos/200/300"
+      "description": "In 2024, several key innovations are shaping the future of technology. One of the most impactful developments is AI for scientific discovery, which leverages deep learning and generative AI to make groundbreaking advancements in medicine and materials science. This technology is expected to revolutionize research across various fields.Another exciting trend is Bluetooth Auracast, which enables devices like headphones to connect to multiple audio sources simultaneously, allowing for new applications in public spaces, such as airports and sports venues. This will significantly enhance how we interact with wireless audio systems.Moreover, smart rings are emerging as a major trend in wearables, potentially overtaking smartwatches. These devices are expected to provide health-tracking features as well as act as controllers for home automation systems, offering a new level of convenience and interactivity in daily life.",
+      "cover_image": "https://media.istockphoto.com/id/1344939844/photo/hand-holding-drawing-virtual-lightbulb-with-brain-on-bokeh-background-for-creative-and-smart.jpg?s=2048x2048&w=is&k=20&c=vL6VgSTXd9Xn3d0F8DCD_a9o2LO2O_UcTpHPrs4HaVc="
     },
     {
       "id": "3",
       "title": "Health Breakthroughs",
-      "description": "Advancements in medicine and health.",
-      "coverImage": "https://picsum.photos/200/300"
+      "description": "Osteoarthritis Treatment: Researchers have made strides in developing treatments that not only halt the progression of osteoarthritis but potentially reverse it. New therapies target the recovery of cartilage thickness, which could eliminate the need for joint replacements in the future. Cancer Breakthroughs: Major developments in cancer care include the introduction of personalized cancer vaccines, a test for detecting early-stage cancers, and a new seven-minute cancer treatment injection.​",
+      "cover_image": "https://media.istockphoto.com/id/1096502340/photo/scientists-working-in-the-laboratory.jpg?s=2048x2048&w=is&k=20&c=PzNx4NoUd02x--V0mv8LIp_0Y2WiN_h5Mb00fJcrd2c="
     },
     {
       "id": "4",
       "title": "Global Economy",
-      "description": "Current trends in global markets.",
-      "coverImage": "https://picsum.photos/200/300"
+      "description": "The pan-European Stoxx 600 index provisionally ended the session 1.36% higher. All major bourses and most sectors traded in the green, with mining stocks adding 3.16%. Utilities were a rare outlier, down 1.76%. Bank of England policy makers voted to hold its key rate steady at 5% in a widely anticipated move. The U.K. central bank said a “gradual approach” to monetary easing remained appropriate, with services inflation remaining “elevated.",
+      "cover_image": "https://media.istockphoto.com/id/1159375409/photo/financial-stock-exchange-market-display-screen-board-on-the-street.jpg?s=2048x2048&w=is&k=20&c=44iIY5DWk34AYN3YbhbmFfV1S4LS1qp6Euh95Jn_-Pg="
+    },
+    {
+      "id": "5",
+      "title": "Global Economy",
+      "description": "The pan-European Stoxx 600 index provisionally ended the session 1.36% higher. All major bourses and most sectors traded in the green, with mining stocks adding 3.16%. Utilities were a rare outlier, down 1.76%. Bank of England policy makers voted to hold its key rate steady at 5% in a widely anticipated move. The U.K. central bank said a “gradual approach” to monetary easing remained appropriate, with services inflation remaining “elevated.",
+      "cover_image": "https://media.istockphoto.com/id/1159375409/photo/financial-stock-exchange-market-display-screen-board-on-the-street.jpg?s=2048x2048&w=is&k=20&c=44iIY5DWk34AYN3YbhbmFfV1S4LS1qp6Euh95Jn_-Pg="
+    },
+    {
+      "id": 6,
+      "title": "The Secret Garden",
+      "description": "A magical story about discovering a hidden world within a garden.",
+      "cover_image": "https://media.istockphoto.com/id/1788588742/photo/korean-traditional-building-in-secret-garden-or-huwon-of-changdeokgung-palace-with-ceautiful.jpg?s=2048x2048&w=is&k=20&c=7t2T3wNYjmk0F66GYfZaKpro4Zr_dIAUKHX0g0bLjas="
+    },
+    {
+      "id": 7,
+      "title": "Space Odyssey",
+      "description": "An epic saga set in the distant future as mankind explores the cosmos.",
+      "cover_image": "https://media.istockphoto.com/id/1368368019/photo/astronaut-standing-on-the-moon-looking-towards-a-distant-earth.jpg?s=2048x2048&w=is&k=20&c=LI8CZqFpwoB6AlrxS-skOfpBcX4DksJhI6b-tyCPVxc="
+    },
+    {
+      "id": 8,
+      "title": "The Great Adventure",
+      "description": "A thrilling journey across uncharted lands.",
+      "cover_image": "https://media.istockphoto.com/id/1397793761/photo/the-great-great-outdoors.jpg?s=2048x2048&w=is&k=20&c=3cI9xq30uiSSrTi6Zap2ZJFb6IshpaNZ_jQdnf4UKL4="
+    },
+    {
+      "id": 9,
+      "title": "Mystery of the Old Castle",
+      "description": "A suspenseful tale of secrets hidden in the walls of an ancient castle.",
+      "cover_image": "https://media.istockphoto.com/id/1455589142/photo/interior-of-old-ruined-palace-with-columns-and-dome.jpg?s=2048x2048&w=is&k=20&c=fs0vlhzrP9NlOiXQ1PxGma-vJHCG_uJ2_l-_SvaN6Pk="
     }
   ],
 
@@ -55,33 +85,33 @@
   {
     "id": "1",
     "title": "About Us",
-    "description": "Learn more about our mission, values, and what we stand for.",
-    "coverImage": "https://picsum.photos/200/300"
+    "description": "Welcome to EcoTech Innovations, where passion meets innovation. Founded in 2015, we are dedicated to delivering high-quality products that enhance your everyday life while promoting sustainability. Our team of experts works tirelessly to ensure that we not only meet but exceed your expectations.",
+    "cover_image": "https://media.istockphoto.com/id/1425221653/photo/vision-proud-and-success-business-people-portrait-in-workplace-or-office-building-with-smile.jpg?s=2048x2048&w=is&k=20&c=3Jay7zCBN8cj1je1K2P7l6tEkMnd2asl35gno0JuDtc="
    
   },
   {
     "id": "2",
     "title": "Terms & Conditions",
-    "description": "The rules and guidelines for using our services and platform.",
-    "coverImage": "https://picsum.photos/200/300"
+    "description": "A Terms and Conditions agreement acts as a legal contract between you (the company) and the user. It's where you maintain your rights to exclude users from your app in the event that they abuse your website/app, set out the rules for using your service and note other important details and disclaimers.",
+    "cover_image": "https://media.istockphoto.com/id/1441309169/vector/sign-contract-agreement-concept.jpg?s=2048x2048&w=is&k=20&c=ZcLoDsgC6TJteZzZnXwvxAnWXOvg2MsOIMKcbfWiAfM="
   },
   {
     "id": "3",
     "title": "Privacy Policy",
-    "description": "How we handle, collect, and protect your personal information.",
-    "coverImage": "https://picsum.photos/200/300"
+    "description": "Your privacy is important to us. At EcoTech Innovations, we are committed to protecting your personal information. We collect data necessary to process your orders and enhance your shopping experience. This information is stored securely and is never shared with third parties without your consent. We use cookies to improve our website’s functionality and your browsing experience. For more detailed information, please read our full Privacy Policy.",
+    "cover_image": "https://media.istockphoto.com/id/1150368621/photo/business-technology-internet-and-virtual-reality-concept-business-woman-pressing-security.jpg?s=2048x2048&w=is&k=20&c=M9cEYTO8YBAe8EFqIjlLWqXBcwB2r8y1hHqc3W7cS88="
   },
   {
     "id": "4",
     "title": "Delivery Details",
-    "description": "Information on our shipping processes and delivery options.",
-    "coverImage": "https://picsum.photos/200/300"
+    "description": "At EcoTech Innovations, we aim to ensure a seamless delivery experience. Orders are processed within 1-2 business days and shipped via reliable carriers. Standard shipping typically takes 3-7 business days, depending on your location. For expedited shipping options, please check at checkout. Tracking information will be provided via email once your order is shipped. If you have any questions about your delivery, feel free to contact our support team.",
+    "cover_image": "https://media.istockphoto.com/id/1186577710/photo/close-up-of-unrecognizable-delivery-man-with-cardboard-box.jpg?s=2048x2048&w=is&k=20&c=fbI8Csd1M0pJvLhcMDbczX91AeAxUv1aa0T8bwcMm28="
   },
   {
     "id": "5",
     "title": "Customer Support",
-    "description": "Get assistance with your inquiries and customer-related issues.",
-    "coverImage": "https://picsum.photos/200/300"
+    "description": "We are here to help! At EcoTech Innovations, our dedicated customer support team is available to assist you with any inquiries or concerns. You can reach us via email at support@ecotechinnovations.com or by phone at (123) 456-7890. Our support hours are Monday to Friday, 9 AM to 5 PM. Whether you have questions about your order, our products, or need assistance, we’re just a message away!",
+    "cover_image": "https://media.istockphoto.com/id/1594332695/photo/male-call-center-operators.jpg?s=2048x2048&w=is&k=20&c=3Oc6_e1wFXYj32lCjM-DRPy-Y-kChmhHREbnbuOIFZM="
   }
 ]
 

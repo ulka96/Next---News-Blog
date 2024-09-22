@@ -2,12 +2,12 @@ export interface ILatestNews {
     "id": string,
     "title": string,
     "description": string,
-    "coverImage": string
+    "cover_image": string
 }
 
 export interface ICommonPage {
     "id": string,
     "title": string,
     "description": string,
-    "coverImage": string
+    "cover_image": string
 }
